@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478148902868",
+    "firebase_url": "https://biryani-queen.firebaseio.com",
+    "project_id": "biryani-queen",
+    "storage_bucket": "biryani-queen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478148902868:android:88b3f47db28be9db246041",
+        "android_client_info": {
+          "package_name": "com.mobiquest.biryaniqueen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478148902868-ed4d867avm7p3lekjlsrf8mf4670nuav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFVTEw_vjY8QmhJP8JrbGMI3tmXLrK738"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478148902868-ed4d867avm7p3lekjlsrf8mf4670nuav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
